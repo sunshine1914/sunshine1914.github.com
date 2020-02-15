@@ -8,13 +8,13 @@ description: >
 # Your information
 email: 1914zmxn@gmail.com
 author: 밝은햇살아이
-avatar: "C:\Users\user\Downloads\jekyll-theme-EasyBook-gh-pages\jekyll-theme-EasyBook-gh-pages\image"
+avatar: "jekyll-theme-EasyBook-gh-pages\jekyll-theme-EasyBook-gh-pages\image"
 profile: One sentence introducing yourself.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
-  Email: "1914zmxn@gmail.com"
-  GitHub: "https://sunshine1914.github.io"
+  Email: "1914zmxn@naver.com"
+  GitHub: "http://sunshine1914.github.io"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
