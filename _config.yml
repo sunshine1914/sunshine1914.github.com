@@ -1,7 +1,7 @@
 # Site settings
 title: sunshine
 url: "http://sunshine1914.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl:"" #timezone: Asia/Chongqing
+baseurl: "" #timezone: Asia/Chongqing
 description: >
   One or more sentences introducing this blog.
 
