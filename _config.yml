@@ -26,9 +26,9 @@ excerpt_separator: <!--more-->
 
 header: 안녕하세요
   links:   이건 뭐지?          # Links on the header. Link to in-site page with a slash as prefix
-    About: /about/
-    Category: /category/
-    Donate: https://laobubu.net/donate.html
+    About: /첫째는 소예/둘째는 찬슬/셋째는 바름/넷째는 서준/
+    Category: /승준사랑/민서사랑/소예사랑/찬슬사랑/
+    Donate: https://blog.naver.com/1914zmxn
 
 permalink: /archivers/:title
 plugins:
